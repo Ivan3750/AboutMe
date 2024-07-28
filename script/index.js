@@ -26,7 +26,7 @@ function renderProjects(projects) {
 }
 
 // Fetch JSON data and render projects
-fetch('../script/data.json')
+fetch('./script/data.json')
     .then(response => response.json())
     .then(data => {
         renderProjects(data.projects);
