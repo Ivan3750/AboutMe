@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+            "name": "Bank",
+            "image": "./images/projects/smartbank.png",
+            "title": "🏦 Bank",
+            "description": "An online banking platform with account management, transaction history, fund transfers, and real-time notifications. Designed for a secure and user-friendly experience.",
+            "links": {
+                "view": "https://ivan3750.github.io/SmartBank/",
+                "github": "https://github.com/Ivan3750/smartbank"
+            }
+        },
+        {
+            "name": "Pizzeria",
+            "image": "./images/projects/pizzeria.png",
+            "title": "🍕 Pizzeria",
+            "description": "A website for a local pizzeria featuring online ordering, menu browsing, and order tracking. Designed to simplify the ordering process and enhance customer satisfaction.",
+            "links": {
+                "view": "https://ivan3750.github.io/pizzle/dist/index.html",
+                "github": "https://github.com/Ivan3750/pizzle"
+            }
+        },
+        {
+            "name": "Social Media",
+            "image": "./images/projects/moments.png",
+            "title": "📱 Social Media",
+            "description": "A social media platform for connecting and interacting with others, featuring profiles, posts, comments, and messaging in a user-friendly interface.",
+            "links": {
+                "view": "https://moments-mui4.onrender.com/",
+                "github": "https://github.com/Ivan3750/moments"
+            }
+        }
+    ]
+}
